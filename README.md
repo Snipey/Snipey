@@ -7,6 +7,4 @@ Check out my [Website](https://snipey.dev) for my socials
 
 #### Projects involved in
 - [Notify](https://notify.me)
-
-
-WIP
+- [PulseJS](https://pulsejs.org)
