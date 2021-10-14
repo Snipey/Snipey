@@ -9,9 +9,9 @@ Check out my [Website](https://snipey.dev) for my socials
 
 **🐱 My GitHub Data** 
 
-> 🏆 208 Contributions in the Year 2021
+> 🏆 209 Contributions in the Year 2021
  > 
-> 📦 36.8 kB Used in GitHub's Storage 
+> 📦 37.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -22,9 +22,9 @@ Check out my [Website](https://snipey.dev) for my socials
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.53% 
+🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
 🌆 Daytime    79 commits     █████████░░░░░░░░░░░░░░░░   37.44% 
-🌃 Evening    90 commits     ██████████░░░░░░░░░░░░░░░   42.65% 
+🌃 Evening    89 commits     ██████████░░░░░░░░░░░░░░░   42.18% 
 🌙 Night      24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.37%
 
 ```
@@ -76,7 +76,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snipey/Snipey/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/10/2021
+ Last Updated on 14/10/2021
 <!--END_SECTION:waka-->
 
 #### Projects involved in
