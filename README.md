@@ -11,7 +11,7 @@ Check out my [Website](https://snipey.dev) for my socials
 
 > 🏆 209 Contributions in the Year 2021
  > 
-> 📦 37.2 kB Used in GitHub's Storage 
+> 📦 32.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -72,7 +72,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snipey/Snipey/master/charts/bar_graph.png) 
 
 
- Last Updated on 17/10/2021
+ Last Updated on 18/10/2021
 <!--END_SECTION:waka-->
 
 #### Projects involved in
