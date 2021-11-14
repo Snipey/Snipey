@@ -9,7 +9,7 @@ Check out my [Website](https://snipey.dev) for my socials
 
 **🐱 My GitHub Data** 
 
-> 🏆 209 Contributions in the Year 2021
+> 🏆 211 Contributions in the Year 2021
  > 
 > 📦 33.4 kB Used in GitHub's Storage 
  > 
@@ -48,13 +48,10 @@ Sunday       34 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-TypeScript               2 hrs 51 mins       ████████████████████████░   96.36% 
-Rust                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.1%
+Rust                     4 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 57 mins       █████████████████████████   100.0%
+VS Code                  4 mins              █████████████████████████   100.0%
 
 ```
 
@@ -75,7 +72,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snipey/Snipey/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/11/2021
+ Last Updated on 14/11/2021
 <!--END_SECTION:waka-->
 
 #### Projects involved in
