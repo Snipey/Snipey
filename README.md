@@ -48,10 +48,14 @@ Sunday       34 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Los_Angeles
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               24 mins             ██████████████░░░░░░░░░░░   56.0% 
+JSON                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   20.65% 
+JavaScript               7 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.97% 
+Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.89% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  44 mins             █████████████████████████   100.0%
 
 ```
 
@@ -72,7 +76,7 @@ Rust                     3 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/Snipey/Snipey/master/charts/bar_graph.png) 
 
 
- Last Updated on 21/11/2021
+ Last Updated on 22/11/2021
 <!--END_SECTION:waka-->
 
 #### Projects involved in
